@@ -55,7 +55,7 @@ console.log(email.endsWith("gmail.com"));
 
 console.log("---------------------------------------");
 
-let studentName = "Hasan";
+let studentName = "Meda";
 
 let studentAge = 30;
 
