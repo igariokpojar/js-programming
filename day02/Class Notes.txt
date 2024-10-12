@@ -1,0 +1,27 @@
+JavaScript Programming Day02
+
+Topics:
+    If Statements
+    Loops
+    String
+    Array
+    Functions
+    Importing & exporting
+    Class & Objects
+
+
+Next Topics:
+    Tabnine - AI Coding Tool (Code generation, Documentation)
+    Inheritance
+    Exception/Error Handlings
+    Promises
+    Async & Await
+
+
+Next Next Class:
+    Introduction to playwright automation
+
+
+You must enroll in the following:
+    1. The Discord server named 'CYDEO Programs'
+    2. The GitHub organization named 'Cydeo-JSP-US003'
