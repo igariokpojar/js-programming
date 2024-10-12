@@ -1,4 +1,4 @@
-let score = 50;
+let score = 90;
 
 if (score >= 60) {
   console.log("Congrats, You passed the exam!");
