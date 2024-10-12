@@ -4,18 +4,18 @@ console.log(elements);
 
 console.log("-------------------------------------");
 
-let students = ["Kibriyo", "Nessar", "Daur", "Aysen"];
+let students = ["Alla", "Alexandru", "Igariok", "Mary"];
 
 console.log(students);
 console.log(students.length);
 
-students.push("Muhtar");
-students.push("Kasim");
+students.push("Anna");
+students.push("Meda");
 
 console.log(students);
 console.log(students.length);
 
-students[students.length - 2] = "Mehmet";
+students[students.length - 2] = "Maria";
 
 console.log(students);
 
@@ -37,9 +37,9 @@ console.log("------------------------------------");
 
 console.log(students);
 
-students.unshift("Ahmed");
-students.unshift("Ahmed");
-students.unshift("Ahmed");
+students.unshift("Adelina");
+students.unshift("Adelina");
+students.unshift("Adelina");
 
 console.log(students);
 
