@@ -5,8 +5,7 @@ ITEM_NAME. PRICE, QUALITY,
 METHOD:
 contructor: initialize all the fields
 calculateTotalPrice: calculate total price (price * quantity)
-toString: return the name of the class with the following attributes and properties 
-
+toString: return the name of the class with the following attributes and properties
 */
 
 /**
@@ -32,13 +31,11 @@ class Item {
   }
 
   /**
-   * Returns a string representation of the item with its properties.
-   * @returns {string} A string representation of the item.
+   * Returns a string representation of the Item object.
+   * @returns {string} A string in the format "Item [ITEM_NAME: ..., PRICE: ..., QUALITY: ...]".
    */
   toString() {
-    return `Item: ${this.itemName}, Price: ${this.price}, Quality: ${
-      this.quality
-    }, Total Price: ${this.calculateTotalPrice()}`;
+    return `${this.constructor.name} [ITEM_NAME: ${this.itemName}, PRICE: ${this.price}, QUALITY: ${this.quality}]`;
   }
 }
 
